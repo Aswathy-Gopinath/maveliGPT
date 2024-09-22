@@ -7,4 +7,4 @@ usage Instructions:
       3.when is onam
       4.when is onam celebrated
       5.tell me about onam traditions
-                                   -------------------- Note:Please try to ash the questions above and also in the same manner
+                                   -------------------- Note:Please try to ask the questions above and also in the same manner
